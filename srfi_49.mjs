@@ -255,7 +255,7 @@ const transform = (code) => {
 };
 
 /**
- * read i-exp code then returns s-exp code
+ * read i-exp code then return s-exp code
  *
  * @param {Port} port - readable stream
  * @return {string} - Lisp s-exp code
